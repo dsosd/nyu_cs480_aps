@@ -1,3 +1,5 @@
 {
-	"github": "git@github.com:dsosd/nyu_cs480_aps"
+	"bitbucket": "git@bitbucket.org:dsosd/nyu_cs480_aps",
+	"github": "git@github.com:dsosd/nyu_cs480_aps",
+	"gitlab": "git@gitlab.com:dsosd/nyu_cs480_aps"
 }
